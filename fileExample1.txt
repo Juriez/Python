@@ -1,0 +1,2 @@
+This is a new file. We want to read this text using python.
+That means we use read mode of that file to print that text in python console. Let's create the file and read the text from the file named 'fileExample.txt'.
